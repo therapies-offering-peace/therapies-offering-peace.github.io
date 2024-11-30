@@ -254,7 +254,7 @@ POTENZA.isSticky = function () {
   POTENZA.countdownTimer = function () {
     if ($countdownTimer.exists()) {
       $countdownTimer.downCount({
-        date: '11/11/2024 12:00:00', // Month/Date/Year HH:MM:SS
+        date: '12/15/2024 12:00:00', // Month/Date/Year HH:MM:SS
         offset: -4
       });
     }
